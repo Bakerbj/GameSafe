@@ -1,0 +1,34 @@
+p{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
+
+h3{
+    color: white;
+}
+.title{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-size: 60px;
+}
+
+ul{
+    color: white;
+}
+
+
+
+
+
+body{
+    background-color: seagreen;
+}
+
+.cent{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
